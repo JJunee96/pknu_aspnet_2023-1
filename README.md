@@ -44,4 +44,9 @@ ASP.NET Core MVC 게시판
 	
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet04.gif" width="700">
 	
+## 6일차
+- ASP.NET MVC
+	- 게시판 정리
+	- 계정관리(회원가입, 로그인)
 	
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
