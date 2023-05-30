@@ -74,12 +74,22 @@ ASP.NET Core MVC 게시판
 ## 9일차
 - ASP.NET Core MVC
 	- SEO Dream 테마 완료
-- ASP.NET RestAPI
-	- RestAPI Server
-	- WPF Cilent
+		- 스크롤이 되는 화면, 안되는 화면 메뉴 분리
+		- 포트폴리오 동적관리(이미지 업로드)
+		- IIS .net6.0 런타임 설치
+	- 다른 Bootstrap 테마 적용
+
+SEO Theme 완료
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet07.gif" width="700">	
+
+다른 테마 적용
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet08.gif" width="700">	
 	
 ## 10일차
 - ASP.NET RestAPI
+	- OpenAPI같은 서비스를 운영
 	- RestAPI Server
 	- WPF Cilent
 - 개인 포트폴리오 웹
