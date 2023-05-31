@@ -18,7 +18,17 @@ namespace aspnet02_boardapp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Resume()
+        {
+            return View();
+        }
+
+        public IActionResult Project()
+        {
+            return View();
+        }
+
+        public IActionResult Contact()
         {
             return View();
         }

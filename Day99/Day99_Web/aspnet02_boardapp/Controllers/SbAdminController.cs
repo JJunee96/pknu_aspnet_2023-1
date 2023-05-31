@@ -8,5 +8,10 @@ namespace aspnet02_boardapp.Controllers
         {
             return View();
         }
+
+        public IActionResult Account()
+        {
+            return View();
+        }
     }
 }

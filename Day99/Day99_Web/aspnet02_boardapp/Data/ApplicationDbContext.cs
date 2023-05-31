@@ -11,5 +11,7 @@ namespace aspnet02_boardapp.Data
         }
 
         public DbSet<Board> Boards { get; set; }
+
+        public DbSet<PortfolioModel> Portfolios { get; set; }
     }
 }
