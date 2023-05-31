@@ -105,4 +105,4 @@ RestAPI Server
 
 관리자화면 템플릿 - Theme Wagon / [Sneat Theme](https://themewagon.com/themes/free-responsive-bootstrap-5-html5-admin-template-sneat/)
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet09.png" width="700">	
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet10.png" width="700">	
