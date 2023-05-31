@@ -99,7 +99,7 @@ RestAPI Server
 - 개인 포트폴리오 웹
 	- 부트스트랩 테마 재적용
 	
-메인화면 템플릿 - Start Bootstrap / Personal Theme
+메인화면 템플릿 - Start Bootstrap / [Personal Theme](https://startbootstrap.com/theme/personal)
 
 <img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/aspnet09.png" width="700">	
 
