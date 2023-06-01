@@ -11,8 +11,9 @@ namespace TodoApiServer.Models
         [Column(TypeName ="Varchar(100)")]
         public string? Title { get; set; }
 
+        // DateTime to string
         public DateTime? TodoDate { get; set; }
-
+        // boolean to int
         public bool? IsComplete { get; set; }
 
     }
