@@ -110,3 +110,16 @@ RestAPI Server
 - ASP.NET RestAPI
 	- RestAPI Server 체크
 	- FrontEnd Server 작업
+	
+## 12일차
+- ASP.NET RestAPI
+	- RestAPI Server 수정
+	- FrontEnd Server 작업계속
+	
+RestAPI사용 FrontEnd Web
+
+<img src="https://raw.githubusercontent.com/hugoMGSung/pknu_aspnet_2023/main/images/restapi02.gif" width="700">	
+
+## 13일차
+
+	

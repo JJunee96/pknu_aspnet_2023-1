@@ -12,9 +12,9 @@ namespace TodoApiServer.Models
         public string? Title { get; set; }
 
         // DateTime to string
-        public DateTime? TodoDate { get; set; }
+        public string TodoDate { get; set; }
         // boolean to int
-        public bool? IsComplete { get; set; }
+        public int IsComplete { get; set; }
 
     }
 }
